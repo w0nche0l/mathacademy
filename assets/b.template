@@ -1,0 +1,18 @@
+Variables
+a = random_int_range(1,100)
+b = random_int_range(1,100)
+c = random_int_range(1,100)
+d = random_int_range(1,100)
+
+Question
+\text{Paul's class has 4 students. Their test grades were }#a#, #b#, #c#, #d#.
+\text{What was the average grade in the class?}
+
+Answer
+!Decimal|(#a#+#b#+#c#+#d#)/4!
+
+Solution
+You find the solution by adding the four test scores and dividing by the number of test scores. \\
+\frac{a+b+c+d}{4} = \frac{!integer|#a#! + !integer|#b#! +!integer|#c#!+ !integer|#d#! }{4}
+
+finish

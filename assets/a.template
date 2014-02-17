@@ -1,0 +1,17 @@
+Variables
+a = random_int_range(1,7)
+b = random_int_range(2,7)
+c = random_int_range(1,7)
+
+Question
+\text{Find the simplified sum of the square roots.}
+\sqrt{!integer|#a#*#a#*#b#!} + \sqrt{!integer|#c#*#c#*#b#!}
+
+Answer
+(!integer|#a#+#c#!)\sqrt{!integer|#b#!}
+
+Solution
+
+
+
+finish

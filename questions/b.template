@@ -1,0 +1,9 @@
+Paul's class has 4 students. Their test grades were #a!random_int_range![0 100], #b!random_int_range![0 100], #c!random_int_range![0 100], #d!random_int_range![0 100].
+What was the average grade in the class?
+
+Answer
+Double
+(#{a}+#{b}+#{c}+#{d})/4
+Solution
+You find the solution by adding the four test scores and dividing by the number of test scores. \\
+\frac{a+b+c+d}{4} = 
